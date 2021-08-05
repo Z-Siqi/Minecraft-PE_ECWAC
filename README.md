@@ -19,6 +19,8 @@ By modifying the devel.dat file in the archive, you can use the command block to
 
 Download this [World](https://github.com/ender-zhao/Minecraft-PE_achievements/releases)
 
+***
+
 ### Chinese:
 
 通过修改存档中的devel.dat文件，以达到在可获得成就的情况下使用命令方块切换游戏模式, 以及使用一切命令
@@ -33,3 +35,7 @@ Download this [World](https://github.com/ender-zhao/Minecraft-PE_achievements/re
 *当然，如果你通过创造模式在这个存档获取成就算是作弊，尽管不会导致任何严重的后果，但这的确算是作弊，而且这不会使你拥有任何成就感*
 
 下载这个[世界](https://github.com/ender-zhao/Minecraft-PE_achievements/releases)
+
+***
+
+**Minimum compatible game version: 1.17.10**
