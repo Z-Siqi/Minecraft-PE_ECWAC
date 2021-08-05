@@ -1,4 +1,4 @@
-# Get achievements in Minecraft From Windows
+# Enable creative without activating cheating
 
 ### Chinese:
 
@@ -9,5 +9,7 @@
 下载修改过的[世界](https://github.com/ender-zhao/Minecraft-PE_achievements/releases)
 
 ### English:
+
+*Get achievements in Minecraft For Windows*
 
 NULL(At the initial stage of project creation, English translation is temporarily not available.)
