@@ -36,6 +36,8 @@ Download this [World](https://github.com/ender-zhao/Minecraft-PE_achievements/re
 
 下载这个[世界](https://github.com/ender-zhao/Minecraft-PE_achievements/releases)
 
+**[向我捐赠](https://github.com/ender-zhao/EZc)**
+
 ***
 
 **Minimum compatible game version: 1.17.10**
