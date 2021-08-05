@@ -6,6 +6,8 @@
 
 *当然，通过这个存档得到的成就算是作弊，尽管不会导致被封号等严重后果，但这的确算是作弊，而且这不会使你拥有成就感*
 
+下载修改过的[世界](https://github.com/ender-zhao/Minecraft-PE_achievements/releases)
+
 ### English:
 
 NULL(At the initial stage of project creation, English translation is temporarily not available.)
