@@ -2,7 +2,7 @@
 
 This is a modified game save, It will use commands through the command block without activating cheating.
 
-<img src="https://github.com/ender-zhao/Minecraft-PE_ECWAC/blob/main/Photo.png?raw=true" width="400" height="300">
+<img src="https://github.com/Z-Siqi/Minecraft-PE_ECWAC/blob/main/Photo.png?raw=true" width="400" height="300">
 
 ### English:
 
@@ -17,7 +17,7 @@ By modifying the devel.dat file in the archive, you can use the command block to
 
 *Of course, if you get achievements in this archive through the creative mode, it is considered cheating, although it will not cause any serious consequences, it is indeed cheating, and it will not make you have any sense of accomplishment.*
 
-Download this [World](https://github.com/ender-zhao/Minecraft-PE_achievements/releases)
+Download this [World](https://github.com/Z-Siqi/Minecraft-PE_achievements/releases)
 
 ***
 
@@ -34,9 +34,7 @@ Download this [World](https://github.com/ender-zhao/Minecraft-PE_achievements/re
 
 *当然，如果你通过创造模式在这个存档获取成就算是作弊，尽管不会导致任何严重的后果，但这的确算是作弊，而且这不会使你拥有任何成就感*
 
-下载这个[世界](https://github.com/ender-zhao/Minecraft-PE_achievements/releases)
-
-**[向我捐赠](https://github.com/ender-zhao/EZc)**
+下载这个[世界](https://github.com/Z-Siqi/Minecraft-PE_achievements/releases)
 
 ***
 
